@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a8ba8f8b-8b90-4968-99df-2dcbb1d44818/resourceGroups/Rocket/providers/Microsoft.Web/sites/Rocket-AT-IOT",
+    "appService.deploySubpath": "."
+}
